@@ -1,0 +1,7 @@
+<resources>
+    <string name="label_cliente">Cliente</string>
+    <string name="label_data">Data</string>
+    <string name="label_valor">Valor</string>
+    <string name="btn_adicionar">Adicionar</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_cliente">Cliente</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_valor">Valor</string>
+</resources>
